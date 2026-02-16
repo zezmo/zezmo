@@ -1,7 +1,6 @@
 ## Mark Vance (He/Him)
-Computer Science student at Oakland University (Expected Dec 2027 Graduation)
+Computer Science student at Oakland University (Expected Dec 2027 Graduation)<br>
 Aspiring Software Dev | Java, C, Full-Stack Web
-
 
 ## Currently Learning
 - Operating Systems
